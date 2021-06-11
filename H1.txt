@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 H1 i made my changes
-=======
-H1
->>>>>>> parent of 46df98c (Update H1.txt)
